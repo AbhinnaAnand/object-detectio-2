@@ -1,0 +1,33 @@
+body{
+background-position: center;
+background-size: cover;
+}
+
+.heading{
+font-size: 30px;
+font-family: 'Lobster', cursive;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number_objects{
+font-size: 18px;
+}
+
+canvas{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+}
+
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px black;
+}
